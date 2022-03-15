@@ -1,5 +1,6 @@
 
 #Created by david@darkivy.io
+#Use Task Scheduler to run this script once a day.
 
 #User Values
 $Server = "localhost\RCARCHIVE"
