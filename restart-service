@@ -1,1 +1,4 @@
-Restart-Service -Name 'ATLArchiveService'
+#Specify the service to restart
+$Service = 'ATLArchiveService'
+
+Restart-Service -Name $Service
